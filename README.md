@@ -70,4 +70,4 @@ MIT License - Open source for educational and commercial use
 
 ## 👤 Author
 
-[Camilo Andres Manrique Ruiz] - [caanrique-droid]
+[Camilo Andres Manrique Ruiz] - [caanrique]
